@@ -2,6 +2,9 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import TranslationList from "./components/TranslationList";
+import TranslationInput from "./components/TranslationInput";
+
 function App() {
   return (
     <div className="App">
